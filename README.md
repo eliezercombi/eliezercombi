@@ -4,6 +4,7 @@ I design and build landing pages and redesigns as working code, and the back-end
 
 **Work you can check**
 
+- [miniapp-landing](https://github.com/eliezercombi/miniapp-landing) — free landing page template for Telegram Mini Apps and bots, 21 KB, light and dark · [demo](https://eliezercombi.github.io/miniapp-landing/) · [kit and done-for-you](https://eliezercombi.github.io/kits/)
 - [Tally](https://eliezercombi.github.io/landing/) — hand-coded landing page with an animated invoice, no images and no web fonts · [source](https://github.com/eliezercombi/eliezercombi.github.io/tree/main/landing)
 - [Brew Bar](https://eliezercombi.github.io/brew-bar/) — ordering mini app for Telegram with Stars checkout and a zero-dependency bot · [source](https://github.com/eliezercombi/tma-shop)
 - [Aside](https://github.com/eliezercombi/aside) — a Notion task list on smart glasses, with a relay server and 48 tests · [demo video](https://eliezercombi.github.io/demos/aside.mp4)
